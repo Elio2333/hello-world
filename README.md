@@ -1,2 +1,4 @@
 # hello-world
-a starting project
+
+Hi Humans!
+Elio here,this is my starting project.
